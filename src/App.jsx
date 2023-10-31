@@ -50,6 +50,5 @@ const [data, setData] = useState();
     </>
   )
 }
-// TODO-asdasda
 
 export default App
